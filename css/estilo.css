@@ -60,6 +60,9 @@ nav.navbar-transparente{
     background-color: white;
     color: black;
 }
+.carousel-control-prev, .carousel-control-next{
+    width: 5%;
+}
 /* Estrutura de conteúdos */
 .caixa{
     padding-top: 20px;
